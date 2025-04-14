@@ -1,4 +1,4 @@
-# AI Enterprise TaskManager Enterprise 
+# AI Enterprise TaskManager
 
 ## 1. Описание предметной области
 
